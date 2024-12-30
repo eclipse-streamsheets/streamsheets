@@ -47,7 +47,7 @@
 			target="_blank"
 		/>
 	</a> -->
-	<a href="https://twitter.com/cedalo_com">
+	<a href="https://x.com/cedalo_com">
 		<img
 			alt="Twitter: cedalo_com"
 			src="https://img.shields.io/twitter/follow/cedalo_com.svg?style=social"
@@ -64,7 +64,7 @@ The Streamsheet® core is an open-source tool for making your data immediately u
   <img src="assets/title.png">
 </p>
 
-If you are new to Streamsheets, you should start with the [introduction guide](https://docs.cedalo.com/introduction.html) or with the following video:
+If you are new to Streamsheets, you should start with the [introduction guide](https://docs.cedalo.com/streamsheets/introduction/) or with the following video:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=fNJcIVSneH4
@@ -83,7 +83,7 @@ Also, visit us on our [website](https://cedalo.com/) or check out the [Streamshe
 
 ## 🚀 Quick start
 
-The easiest way to install Streamsheets is to use the [official installer](https://docs.cedalo.com/streamsheets/installation/). After successfully running the installer navigate to the install directory and run the start script (depending on the target platform).
+The easiest way to install Streamsheets is to use the [official installer](https://docs.cedalo.com/streamsheets/getting-started/installation/). After successfully running the installer navigate to the install directory and run the start script (depending on the target platform).
 
 For Linux:
 ```
@@ -117,7 +117,7 @@ Check out the Getting Started page for a quick overview.
 
 The documentation is divided into several sections:
 
-* [Installation](https://docs.cedalo.com/streamsheets/installation)
+* [Installation](https://docs.cedalo.com/streamsheets/getting-started/installation/)
 * [Introduction](https://docs.cedalo.com/streamsheets/introduction)
 * [Main Components](https://docs.cedalo.com/streamsheets/maincomponents)
 * [Getting Started](https://docs.cedalo.com/streamsheets/getting-started)
@@ -136,7 +136,7 @@ If you are interested in a hosted version of Streamsheets on our infrastructure 
 
 ### Looking for support?
 
-For questions and support please join our [Forum](https://forum.cedalo.com), ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/streamsheets), or contact us on [Twitter](https://twitter.com/cedalo_com).
+For questions and support please join our [Forum](https://forum.cedalo.com), ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/streamsheets), or contact us on [X (formerly Twitter)](https://x.com/cedalo_com).
 
 ### Where are the docs?
 
@@ -161,4 +161,4 @@ Give a ⭐️ if this project helped you!
 
 Copyright (c) 2017-2021 Cedalo AG.
 
-Streamsheets is licensed under the Eclipse Public License - v 2.0. Please see the LICENSE file for details.
+Streamsheets is licensed under the [Eclipse Public License - v 2.0](https://github.com/eclipse/streamsheets/blob/master/LICENSE). Please see the LICENSE file for details.
